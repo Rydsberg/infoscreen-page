@@ -1,0 +1,10 @@
+<!--Exempel-->
+
+<h3><strong>Idag:</strong> Elevråd kl 13:45</h3>
+Vi samlas i biblioteket kl 13:45 idag.<br>
+<br>
+<h3>Fredag:</strong> Klassfoton för alla 9or!</h3>
+9A: kl 12:45-13:00<br>
+9B: kl 13:05-13:20<br>
+9C: kl 13:25-13:40<br>
+9D: kl 13:45-14:00<br>
