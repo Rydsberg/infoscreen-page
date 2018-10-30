@@ -8,4 +8,4 @@ Detta är helt för html man kan skriva saker i <strong>fetstilt</strong> och me
 <h1>headings</h1> och rader <br><br>
 :)
 
-Om man skriver mycket text kommer den att flytta ner det på flera rader och skriva det som stycken indelade med <br-> utan -. Allt detta går att redigera med 100% html
+Om man skriver mycket text kommer den att flytta ner det på flera rader och skriva det som stycken indelade med radslut. Allt detta går att redigera med 100% html. Det går även att lägga in bilder: <img src="https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.P8kBiBcKFRC7XxDhMPQgDgHaFj%26pid%3D15.1&f=1"></img>
