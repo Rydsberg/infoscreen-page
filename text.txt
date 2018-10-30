@@ -7,3 +7,5 @@ test5
 Detta är helt för html man kan skriva saker i <strong>fetstilt</strong> och med <span style="color: #ff0000;">färg</span>, samt 
 <h1>headings</h1> och rader <br><br>
 :)
+
+Om man skriver mycket text kommer den att flytta ner det på flera rader och skriva det som stycken indelade med <br-> utan -. Allt detta går att redigera med 100% html
