@@ -1,3 +1,3 @@
 ## HTML guide:
 
-Redigera filen [text_box.txt](../master/text_box.txt)
+Redigera filen [text.txt](../master/text.txt)
