@@ -1,4 +1,4 @@
-<h2><strong>Välkommna tillbaka!</strong></h2><br><br>
+<h2><strong>Välkommna tillbaka!</strong></h2><br>
 
 <h2><strong>Tisdag:</strong></h2><br>
 <strong>Elevrådet:</strong> Vi samlas i biblioteket kl <strong>12:50</strong>.<br>
