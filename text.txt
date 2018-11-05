@@ -1,9 +1,7 @@
 <h2><strong>Välkommna tillbaka!</strong></h2><br><br>
 
-<strong>Elevrådsmöte</strong> tisdag i biblioteket kl <strong>12:50</strong>
-<strong>Rörelseråd</strong> tisdag utanför konferensrummet kl <strong>13:00</strong>
-<strong>Tisdag:</strong><br>
-Elevrådet: Vi samlas i biblioteket kl <strong>12:50</strong>.<br>
-Rörelserådet: Vi samlas utanför konferensrummet kl <strong>13:00</strong>.<br><br>
+<h2><strong>Tisdag:</strong></h2><br>
+<strong>Elevrådet:</strong> Vi samlas i biblioteket kl <strong>12:50</strong>.<br>
+<strong>Rörelserådet:</strong> Vi samlas utanför konferensrummet kl <strong>13:00</strong>.<br><br>
 <strong>Onsdag:</strong><br>
 Utvecklingssamtal på förmiddagen.
