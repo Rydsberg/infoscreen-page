@@ -1,4 +1,4 @@
-<h2><strong>Välkommna tillbaka!</strong></h2>
+<h2><strong>Välkommna tillbaka!</strong></h2><br><br>
 
 <strong>Elevrådsmöte</strong> tisdag i biblioteket kl <strong>12:50</strong>
 <strong>Rörelseråd</strong> tisdag utanför konferensrummet kl <strong>13:00</strong>
