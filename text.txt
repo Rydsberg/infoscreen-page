@@ -1,1 +1,1 @@
-Välkommen på elevrådsmöte tisdag den <b>15</b> januari kl <b>12.50-14.00</b> i biblioteket.
+<h2>Välkommen på elevrådsmöte tisdag den <b>15</b> januari kl <b>12.50-14.00</b> i biblioteket.</h2>
