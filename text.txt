@@ -1,3 +1,2 @@
-
-<h2><strong>Elevråd:</strong> Tisdag kl 12:50 </h2>
-Vi ses i sal 8 <br>
+<h1><b>OBS!</b></h1>
+<h2>Just nu anpassar inte klockan sig efter sommartid</h2>
