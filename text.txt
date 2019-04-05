@@ -1,2 +1,1 @@
-<h1><b>OBS!</b></h1>
-<h2>Just nu anpassar inte klockan sig efter sommartid</h2>
+
