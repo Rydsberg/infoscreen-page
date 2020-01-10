@@ -1,9 +1,11 @@
 
-<h1><strong> välkomna tillbaka till skolan </strong></h1>
+<h1><strong>Välkomna tillbaka till skolan</strong></h1>
 
+<!-- vad har du lagt här? -->
 <h1><strong>
 
 <br>
 </strong></h1>
 <br>
 <h1><strong>  </strong></h1>
+<!-- -->
