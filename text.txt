@@ -1,13 +1,5 @@
 
-<h1><strong> Måndag 27/1 är det dags för terminens första elevrådsmöte. <h1><strong>
+<h1><strong> <h1><strong>
 <br>
-<h1><strong> Vi träffas i sal 8, 09.45-10.45 <h1><strong>
+<h1><strong> <h1><strong>
 
-<!-- vad har du lagt här? -->
-<h1><strong>
-
-<br>
-</strong></h1>
-<br>
-<h1><strong>  </strong></h1>
-<!-- -->
